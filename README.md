@@ -1,6 +1,6 @@
-# 🏦 Bank Management System (C++)
+# Bank Management System (C++)
 
-## 📖 Description
+##  Description
 A robust **Bank Management System** built with C++ that demonstrates the practical application of **Functional Programming approach**.
 The system provides an efficient way to manage client data through a console interface, with persistent storage using file handling.
 
@@ -25,7 +25,7 @@ Bank-System/
 │── clients.txt      # Data storage file                # Implementation of client methods
 └── README.md        # Project documentation
 
-⚙️ How to Run
+⚙️How to Run
    ** Using Visual Studio:
     Clone the repository or download the source code.
     Open the folder as a Local Folder or create a new Console App project and add the files.
@@ -36,7 +36,7 @@ Bank-System/
 Mastering File Handling (Input/Output operations).
 Implementing CRUD (Create, Read, Update, Delete) operations.
 Understanding the separation of concerns by using Header (.h) and Implementation (.cpp) files.
-👨‍💻 Author
+## Author
 Mustafa Mohamed
 GitHub: Mustafa Mohmed
 LinkedIn: https://www.linkedin.com/in/moustafa-mohamed-39ba88294?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
