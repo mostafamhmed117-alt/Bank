@@ -19,7 +19,7 @@ The system provides an efficient way to manage client data through a console int
 * **File I/O:** `fstream` library for reading and writing data.
 
 ##  Project Structure
-```text
+text
 Bank-System/
 │── main.cpp         # Entry point and menu logic       # Class definition and attributes     
 │── clients.txt      # Data storage file                # Implementation of client methods
